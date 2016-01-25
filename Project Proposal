@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------------------------------------------------------------------
+Instructions
+Your first task as a group is be to create a project proposal.  Only one of the members of your group should submit the proposal, but state the names of all group members in your file.  
+
+Please follow IEEE 2-column format
+(http://www.ieee.org/conferences_events/conferences/publishing/templates.html Ignore the “Windows” heading for Latex zip.  It works fine on my mac.)
+You may use word or Latex (I encourage you to use Latex) but please hand in a PDF.
+
+This is the format for ICDM 2016 http://icdm2016.eurecat.org/call-for-papers/
+ICDM paper deadline June 17 – work hard!  
+
+
+Proposal contents:
+
+-[]Group members
+-[]Project description & Problem overview (abstract)
+-[]Related work 
+-[]Data description/source
+-[]Proposed project (data -> algorithm -> evaluation)
+-[]Estimated timeline
+-[]Distribution of tasks amongst team members
+The purpose of the project proposal is to convince us that:
+
+Your project is interesting
+You plan to try something new that hasn't been done before
+You have explored what has been done before
+You have a plan to accomplish your project goals within the class schedule
+Please post questions to the forum!
+-------------------------------------------------------------------------------------------------------------------------------------
